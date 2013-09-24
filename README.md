@@ -22,9 +22,7 @@ end
 ```
 
 #截圖
-
-
-
+![Adept Workflow Diagram](HW01_a.png)
 
 
 #說明
@@ -50,3 +48,4 @@ end
 ```
 #截圖
 
+![Adept Workflow Diagram](HW01_b.png)
